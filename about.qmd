@@ -1,0 +1,12 @@
+---
+title: "staromics.com: a blog about multi-omics bioinformatics"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/staromics/
+
+---
+
+The star in **staromics** symbolizes the wildcard in programming languages' regular expressions. It reflects the versatility required to explore diverse domains, spanning genomics, proteomics, and beyond.
